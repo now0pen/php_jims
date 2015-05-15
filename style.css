@@ -1,0 +1,29 @@
+@import url("http://ajax.aspnetcdn.com/ajax/bootstrap/3.3.4/css/bootstrap.min.css");
+
+body {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 600px;
+}
+
+main {
+  padding-top: 20px;
+}
+a {
+  color: #00f;
+}
+blockquote {
+  color: #666;
+}
+h1 {
+  text-align: center;
+}
+h2,
+h3 {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+img.center {
+  display: block;
+  margin: 0 auto;
+}
